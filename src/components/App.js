@@ -6,7 +6,7 @@ function App() {
 
   const[dogList, setDogList] = useState([])
   const[viewDog, setViewDog] = useState([])
-  const[viewGood, setViewGood] = useState(true)
+  const[viewGood, setViewGood] = useState(false)
 
 
   
